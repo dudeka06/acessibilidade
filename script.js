@@ -24,6 +24,5 @@ document.addEventListener('DOMContentLoaded', function () {
         document.body.style.fontSize = `${tamanhoAtualFonte}rem`
 
     });
-
 });
 
