@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #ffffff;
+    background-color: #000000;
     background-color: ;
 
 }
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #000000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -139,7 +139,7 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 .menu-acessibilidade{
