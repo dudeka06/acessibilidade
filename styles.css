@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #d6cb8a;
+    background-color: #ffffff;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -139,7 +139,7 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #c9c598;
 }
 
 .menu-acessibilidade{
