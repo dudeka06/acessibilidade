@@ -132,14 +132,14 @@ h2 {
 }
 
 .formulario button {
-    background-color: #ffffff;
+    background-color: #fbff00;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #000000;
+    background-color: #e3e700;
 }
 
 .menu-acessibilidade{
